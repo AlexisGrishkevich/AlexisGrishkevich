@@ -4,15 +4,16 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hi, I'm a beginner C++ Software Developer. I studied the C++ programing "
-            << "language on my own and passed a course from the IT-Academy.\n"
+  std::cout << "Hi, I'm Alex. I'm a C++ Software Developer and I like what I do.\n"
             << "At the moment I study at the Faculty of Mechanics and Mathematics of "
             << "the Belarusian State University, majoring in the Mathematics and "
-            << "Information Technology .\n"
-            << "I draw knowledge from related specialties and learning professional "
-            << "literature. I combine logic and analytics and fully charged to work!\n"
-            << "I want to join a team of professionals, develop software and be useful in "
-            << "achieving the goals set by the company.\n";
+            << "Information Technology.\n"
+            << "In my work, I draw knowledge from related specialties, learning "
+            << "professional literature and MIPT courses. Reading stuff and "
+            << "practicing while implementing what I have learned.\n"
+            << "I combine logic and analytics and fully charged to work!\n";
+
+  return 0;
 }
 ```
 
